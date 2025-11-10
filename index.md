@@ -10,3 +10,12 @@
 ## blog personal
 
 * [1 2 3 escuchando](https://guxok.wordpress.com)
+
+## social
+
+* [LinkedIn](https://www.linkedin.com/in/guxlar/)
+* [Xwitter](https://twitter.com/guxlar)
+* [Instagram](https://www.instagram.com/guxlar/)
+* [YouTube](https://www.youtube.com/@guxlargaming)
+* [Threads](https://www.threads.net/@guxlar)
+* [Twitch](https://www.twitch.tv/guxlar)
