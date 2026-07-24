@@ -1,3 +1,3 @@
 # guxlar.github.io
 
-by guxlar
+by guxlar /wʊks lɑːr/
