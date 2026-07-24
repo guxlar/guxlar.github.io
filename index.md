@@ -2,7 +2,8 @@
 
 ## blogs
 
-* [1 2 3... escuchando](https://guxok.wordpress.com) | [Zinc. Different.](https://zincdiff.wordpress.com/)
+* [1 2 3... escuchando](https://guxok.wordpress.com)
+* [Zinc. Different.](https://zincdiff.wordpress.com/)
 
 ## repos
 
@@ -10,8 +11,20 @@
 
 ## social
 
-* [Discord](https://discord.gg/t4PE25HhwC) | [Xwitter](https://twitter.com/guxlar) | [Instagram](https://www.instagram.com/guxlar/) | [YouTube](https://www.youtube.com/@guxlargaming) | [Threads](https://www.threads.net/@guxlar) | [Bluesky](https://bsky.app/profile/guxlar.bsky.social) | [HeyMaven](https://app.heymaven.com/profile/7719) | [Twitch](https://www.twitch.tv/guxlar) | [Steam](https://steamcommunity.com/id/guxlar/) | [LinkedIn](https://www.linkedin.com/in/guxlar/) | [ResearchGate](https://www.researchgate.net/profile/Gustavo-Larriera)
+* [Bluesky](https://bsky.app/profile/guxlar.bsky.social)
+* [Discord](https://discord.gg/t4PE25HhwC)
+* [HeyMaven](https://app.heymaven.com/profile/7719)
+* [Instagram](https://www.instagram.com/guxlar/)
+* [LinkedIn](https://www.linkedin.com/in/guxlar/)
+* [ResearchGate](https://www.researchgate.net/profile/Gustavo-Larriera)
+* [Steam](https://steamcommunity.com/id/guxlar/)
+* [Threads](https://www.threads.net/@guxlar)
+* [Twitch](https://www.twitch.tv/guxlar)
+* [Xwitter](https://twitter.com/guxlar)
+* [YouTube](https://www.youtube.com/@guxlargaming)
 
 ## donate
 
-* [BuyMeAcoffee](https://www.buymeacoffee.com/guxlar) | [Cafecito](https://cafecito.app/guxlargaming) | [PayPal](https://www.paypal.com/donate/?hosted_button_id=G4VS9S7DJGFQQ)
+* [BuyMeAcoffee](https://www.buymeacoffee.com/guxlar)
+* [Cafecito](https://cafecito.app/guxlargaming)
+* [PayPal](https://www.paypal.com/donate/?hosted_button_id=G4VS9S7DJGFQQ)
