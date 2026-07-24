@@ -10,9 +10,10 @@
 
 ## social
 
-* [LinkedIn](https://www.linkedin.com/in/guxlar/)
+* [Discord](https://discord.gg/t4PE25HhwC)
 * [Xwitter](https://twitter.com/guxlar)
 * [Instagram](https://www.instagram.com/guxlar/)
 * [YouTube](https://www.youtube.com/@guxlargaming)
 * [Threads](https://www.threads.net/@guxlar)
 * [Twitch](https://www.twitch.tv/guxlar)
+* [LinkedIn](https://www.linkedin.com/in/guxlar/)
