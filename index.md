@@ -20,6 +20,7 @@
 * [HeyMaven](https://app.heymaven.com/profile/7719)
 * [Twitch](https://www.twitch.tv/guxlar)
 * [LinkedIn](https://www.linkedin.com/in/guxlar/)
+* [ResearchGate](https://www.researchgate.net/profile/Gustavo-Larriera)
 
 ## donate
 
