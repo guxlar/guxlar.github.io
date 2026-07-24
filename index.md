@@ -25,6 +25,4 @@
 
 ## donate
 
-* [BuyMeAcoffee](https://www.buymeacoffee.com/guxlar)
-* [Cafecito](https://cafecito.app/guxlargaming)
-* [PayPal](https://www.paypal.com/donate/?hosted_button_id=G4VS9S7DJGFQQ)
+* [BuyMeAcoffee](https://www.buymeacoffee.com/guxlar) | [Cafecito](https://cafecito.app/guxlargaming) | [PayPal](https://www.paypal.com/donate/?hosted_button_id=G4VS9S7DJGFQQ)
